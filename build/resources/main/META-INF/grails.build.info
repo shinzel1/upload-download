@@ -1,0 +1,6 @@
+#Thu, 16 Sep 2021 19:09:17 +0530
+
+info.app.version=0.1
+info.app.name=gra
+grails.env=development
+info.app.grailsVersion=4.0.12
